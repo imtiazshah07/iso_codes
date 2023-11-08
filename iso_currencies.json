@@ -71,7 +71,6 @@
     },
     {
     "code": "BHD",
-    decimals: 3,
     "name": "Bahraini dinar",
     "number": "48"
     },
